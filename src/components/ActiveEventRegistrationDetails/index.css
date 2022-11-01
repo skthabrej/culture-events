@@ -1,0 +1,14 @@
+.show-image-container {
+    width: 50%;
+}
+
+.clickImg {
+    height: 150px;
+    width: 150px;
+}
+
+.heading {
+    font-size: 25px;
+    color: rgb(74, 0, 44);
+    font-weight: bold;
+}
